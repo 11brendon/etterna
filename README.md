@@ -4,8 +4,10 @@ Etterna
 Etterna is an advanced cross-platform rhythm game focused on keyboard play.
 
 Linux/Mac: [![Travis CI Build Status](https://travis-ci.org/etternagame/etterna.svg?branch=develop)](https://travis-ci.org/etternagame/etterna)
-Windows 7: [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/lgdsvx101i45d71k?svg=true)](https://ci.appveyor.com/project/martensm/etterna)
-Windows 10 : [AppVeyor Windows 10](https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/2)
+
+Windows 7: [![AppVeyor Build Status Windows 7](https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/1)](https://ci.appveyor.com/project/Nickito12/etterna)
+
+Windows 10 : [![AppVeyor Build Status Windows 10](https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/2)](https://ci.appveyor.com/project/Nickito12/etterna)
 
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/12978.svg)](https://scan.coverity.com/projects/etternagame-etterna)
 
