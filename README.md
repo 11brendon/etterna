@@ -3,13 +3,17 @@ Etterna
 
 Etterna is an advanced cross-platform rhythm game focused on keyboard play.
 
-Linux/Mac: [![Travis CI Build Status](https://travis-ci.org/etternagame/etterna.svg?branch=develop)](https://travis-ci.org/etternagame/etterna)
+| Linux/Mac         | Windows 7         | Windows 10        | Coverity          |
+|-------------------|-------------------|-------------------|-------------------|
+| [![build1][]][build-link-travis] | [![build2][]][build-link-app] | [![build3][]][build-link-app] | [![build4][]][build-link-cover] |
 
-Windows 7: [![AppVeyor Build Status Windows 7](https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/1)](https://ci.appveyor.com/project/Nickito12/etterna)
-
-Windows 10 : [![AppVeyor Build Status Windows 10](https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/2)](https://ci.appveyor.com/project/Nickito12/etterna)
-
-[![Coverity Scan Build Status](https://img.shields.io/coverity/scan/12978.svg)](https://scan.coverity.com/projects/etternagame-etterna)
+[build1]: https://travis-ci.org/etternagame/etterna.svg?branch=develop
+[build2]: https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/1
+[build3]: https://appveyor-matrix-badges.herokuapp.com/repos/Nickito12/etterna/branch/develop/2
+[build4]: https://img.shields.io/coverity/scan/12978.svg
+[build-link-travis]: https://travis-ci.org/etternagame/etterna
+[build-link-app]: https://ci.appveyor.com/project/Nickito12/etterna
+[build-link-cover]: https://scan.coverity.com/projects/etternagame-etterna
 
 ## Installation
 ### From Packages
