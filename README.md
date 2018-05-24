@@ -4,7 +4,7 @@ Etterna
 Etterna is an advanced cross-platform rhythm game focused on keyboard play.
 
 |       Mac         |       Linux-clang |       Linux-gcc   | Windows 7         | Windows 10        | Coverity          |
-|-------------------|-------------------|-------------------|-------------------|
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | [![build1-trav][]][build-link-travis] | [![build2-trav][]][build-link-travis] | [![build3-trav][]][build-link-travis] | [![build1-app][]][build-link-app] | [![build2-app][]][build-link-app] | [![build1-cov][]][build-link-cover] |
 
 [build1-trav]: https://travis-matrix-badges.herokuapp.com/repos/etternagame/etterna/branches/develop/1
